@@ -35,6 +35,7 @@ src/
 │       ├── Navbar.jsx          # Sticky top navigation
 │       ├── StatCard.jsx        # Reusable metric card
 │       ├── WeatherHero.jsx     # Current conditions hero panel
+│       ├── GoogleWeather.jsx   # Google Weather UI
 │       ├── AQIPanel.jsx        # Air quality breakdown
 │       ├── DatePicker.jsx      # Single & range date pickers
 │       └── Elements.jsx        # SectionHeader, LoadingSkeleton, ErrorBanner, Badge, etc.
