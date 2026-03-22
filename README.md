@@ -26,7 +26,9 @@ A high-performance, responsive weather insights web application built with **Rea
 ```
 src/
 ├── components/
-│   ├── icons/index.js          # All icons re-exported from lucide-react
+│   ├── icons/ 
+│   │   ├── index.js            # All icons re-exported from lucide-react
+│   │   └── WeatherIcon.jsx     # SVG Icons
 │   ├── charts/Charts.jsx       # ChartWrapper, HourlyAreaChart, DualLineChart,
 │   │                           # HistoricalLineChart, HistoricalBarChart, WindDirectionChart
 │   └── ui/
